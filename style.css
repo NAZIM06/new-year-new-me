@@ -192,7 +192,8 @@ footer {
     justify-content: space-between;
 }
  /* footer left */
-.footer-left h2 {
+
+ .footer-left h2 {
     font-weight: 700;
     font-size: 30px;
     color: #F8F8F8;
@@ -232,5 +233,4 @@ form button{
     color: #F15B22;
     font-weight: bold;
     margin-top: 5px;
-
 }
