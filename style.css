@@ -14,19 +14,20 @@
     width: 30%;
     float: right;
     margin-right: 200px;
-    margin-top: 200px;
+    margin-top: 140px;
     
 }
 .header .banner-text h1{
     text-align: right;
     font-weight: 800;
-    
+    font-size: 42px;   
 }
 .header .banner-text p{
-    font-size: small;
+    font-size: 16px;
     margin-top: 20px;
     text-align: right;
     color: #444343;
+    line-height: 25px;
 }
 button{
     margin-top: 20px;
@@ -39,3 +40,49 @@ button{
     border-radius: 5px;
 }
 /* banner ended. */
+
+main {
+    margin: auto;
+    width: 80%;
+}
+
+/* My falure section */
+.person {
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.person-text {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.person-text h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    margin-bottom: 24px;
+}
+
+.person-text p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #444343;
+}
+
+ul {
+    margin-top: 16px;
+    margin-left: -42px;
+}
+
+ul li {
+    list-style: none;
+    color: #444343;
+    line-height: 25px;
+}
+
+.fa-solid {
+    color: #16D887;
+}
