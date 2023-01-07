@@ -87,6 +87,8 @@ ul li {
     color: #16D887;
 }
 
+
+
 /* My plans section */
 
 .my-plans {
@@ -128,7 +130,35 @@ ul li {
     color: #737272;
 
 
-}/*positive mindset section*/
+}
+/* my work section */
+
+.my-works{
+    height: 500px;
+}
+ .my-works h1{
+    text-align: center;
+    margin: 70px;
+    padding-top: 20px;
+    font-size: 42px;
+ }
+.work{
+    width:25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.work p{
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.work img{
+    width: 100%;
+    height: 200px;
+}
+
+/*positive mindset section*/
 
 .positive-mind {
     background-image:linear-gradient(to left, #00d0ff6e ,#ff0700b3 ), url(/images/watch.png);
