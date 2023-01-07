@@ -86,3 +86,121 @@ ul li {
 .fa-solid {
     color: #16D887;
 }
+
+/* My plans section */
+
+.my-plans {
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+
+.my-plans h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 42px;
+    color: #151414;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.item {
+    text-align: center;
+}
+
+.item img {
+    width: 90px;
+}
+
+.item h2{
+    font-weight: 700;
+    font-size: 30px;
+    margin: 30px;
+}
+
+.item p {
+    font-weight:600;
+    font-size: 18px;
+    color: #737272;
+
+
+}/*positive mindset section*/
+
+.positive-mind {
+    background-image:linear-gradient(to left, #00d0ff6e ,#ff0700b3 ), url(/images/watch.png);
+    background-position: center;
+    padding: 100px;
+    margin-bottom: 100px;
+    color: white;
+}
+
+.positive-mind h2 {
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: -30px;
+}
+.positive-mind button {
+    background: #FFFFFF;
+    font-weight: bold;
+    color: #F15B22;
+    float: left;
+}
+/* footer */
+footer {
+    height: 400px;
+    background: #151414;
+    color: white;
+}
+
+.full-footer {
+    padding: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+ /* footer left */
+.footer-left h2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.footer-left p {
+    font-size: 12px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.icon img{
+    margin-right: 20px;
+    width: 40px;
+}
+
+/* footer right */
+form h2 {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+form input {
+    width: 300px;
+    height: 60px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    color: #F3F3F3;
+    background: #151414;
+    padding-left: 15px;
+    margin-bottom: 5px;
+}
+form button{
+    float: left;
+    background-color: white;
+    color: #F15B22;
+    font-weight: bold;
+    margin-top: 5px;
+
+}
