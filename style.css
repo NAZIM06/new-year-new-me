@@ -161,7 +161,7 @@ ul li {
 /*positive mindset section*/
 
 .positive-mind {
-    background-image:linear-gradient(to left, #00d0ff6e ,#ff0700b3 ), url(/images/watch.png);
+    background-image:linear-gradient(to left, #00d0ff6e ,#ff0700b3 ), url(images/watch.png);
     background-position: center;
     padding: 100px;
     margin-bottom: 100px;
